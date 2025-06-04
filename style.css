@@ -1,0 +1,44 @@
+body {
+    background-color:#000;
+}
+p{
+    color:#f00;
+    font-size: 15px;
+    font-weight:500;
+    line-height:0;
+    font-family: "Yeon Sung", system-ui
+}
+h1{
+    color:#fff;
+    font-size:70px;
+    font-weight:50;
+    line-height:0.5;
+    text-align:center;
+    font-family: "Diphylleia", system-ui
+}
+h2{
+    color:#ccc;
+    font-size:50px;
+    font-weight:50;
+    line-height:0;
+    font-family: "Diphylleia", system-ui
+}
+h3{
+    color:#ddd;
+    font-size:50px;
+    font-weight:100;
+    line-height:0;
+    text-align: center;
+    font-family: "Cherish" ,"cursive";
+}
+a{
+    color: #adf;
+    font-weight:15;
+    line-height:1.5;
+    font-size:30px;
+    font-family: system-ui;    
+}
+li{
+    color:#000;
+}
+
