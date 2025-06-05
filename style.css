@@ -41,7 +41,7 @@ a{
 li{
     color: #ccc;
     font-weight:15;
-    line-height:1.5;
+    line-height:0;
     font-size:50px;
     font-family:"Nanum Myeongjo", system-ui;   
 }
