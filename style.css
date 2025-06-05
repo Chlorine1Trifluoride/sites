@@ -1,5 +1,5 @@
 body {
-    background-color:#000;
+    background-color:#fff;
 }
 p{
     color:#f00;
@@ -9,7 +9,7 @@ p{
     font-family: "Nanum Pen Script", system-ui
 }
 h1{
-    color:#fff;
+    color:#000;
     font-size:70px;
     font-weight:50;
     line-height:0.5;
@@ -17,14 +17,14 @@ h1{
     font-family: "Nanum Myeongjo", system-ui
 }
 h2{
-    color:#ccc;
+    color:#444;
     font-size:50px;
     font-weight:50;
     line-height:0;
     font-family: "Song Myung", system-ui
 }
 h3{
-    color:#ddd;
+    color:#333;
     font-size:30px;
     font-weight:100;
     line-height:0;
@@ -39,7 +39,7 @@ a{
     font-family:"Nanum Myeongjo", system-ui;    
 }
 li{
-    color: #ccc;
+    color: #444;
     font-weight:15;
     line-height:0;
     font-size:50px;
