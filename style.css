@@ -21,7 +21,7 @@ h2{
     font-size:50px;
     font-weight:50;
     line-height:0;
-    font-family: "Black Han Sans", system-ui
+    font-family: "Song Myung", system-ui
 }
 h3{
     color:#ddd;
@@ -36,9 +36,13 @@ a{
     font-weight:15;
     line-height:1.5;
     font-size:30px;
-    font-family:"Black Han Sans", system-ui;    
+    font-family:"Nanum Myeongjo", system-ui;    
 }
 li{
-    color:#000;
+    color: #adf;
+    font-weight:15;
+    line-height:1.5;
+    font-size:30px;
+    font-family:"Nanum Myeongjo", system-ui;   
 }
 
