@@ -21,11 +21,11 @@ h2{
     font-size:50px;
     font-weight:50;
     line-height:0;
-    font-family: "Nanum Myeongjo", system-ui
+    font-family: "Black Han Sans", system-ui
 }
 h3{
     color:#ddd;
-    font-size:50px;
+    font-size:30px;
     font-weight:100;
     line-height:0;
     text-align: center;
@@ -36,7 +36,7 @@ a{
     font-weight:15;
     line-height:1.5;
     font-size:30px;
-    font-family: system-ui;    
+    font-family:"Black Han Sans", system-ui;    
 }
 li{
     color:#000;
