@@ -5,14 +5,14 @@ p{
     color:#f00;
     font-size: 15px;
     font-weight:500;
-    line-height:0;
+    line-height:1;
     font-family: "Nanum Pen Script", system-ui
 }
 h1{
     color:#000;
     font-size:70px;
     font-weight:50;
-    line-height:0.5;
+    line-height:1;
     text-align:center;
     font-family: "Nanum Myeongjo", system-ui
 }
@@ -20,14 +20,14 @@ h2{
     color:#444;
     font-size:50px;
     font-weight:50;
-    line-height:0;
+    line-height:1;
     font-family: "Song Myung", system-ui
 }
 h3{
     color:#333;
     font-size:30px;
     font-weight:100;
-    line-height:0;
+    line-height:1;
     text-align: center;
     font-family: "Playfair Display" ,"cursive";
 }
@@ -41,7 +41,7 @@ a{
 li{
     color: #444;
     font-weight:15;
-    line-height:0;
+    line-height:1;
     font-size:50px;
     font-family:"Nanum Myeongjo", system-ui;   
 }
